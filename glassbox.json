@@ -1,0 +1,108 @@
+{
+  "slug": "endocrineclear",
+  "box": 48,
+  "date": "2026-10-06",
+  "title": "EndocrineClear",
+  "question": "How does the endocrine system work?",
+  "hook": "Nine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.",
+  "thumbText": "HOW HORMONES WORK",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "endocrine system",
+    "hormones",
+    "glands",
+    "pituitary",
+    "thyroid",
+    "insulin",
+    "adrenaline",
+    "puberty",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Glands with no tubes",
+      "text": "The hypothalamus, pituitary, pineal, thyroid, parathyroids, thymus, adrenals, pancreatic islets and ovaries or testes make more than 50 hormones. They pour them straight into the blood, which carries them round the body in about a minute."
+    },
+    {
+      "title": "A key for the right lock",
+      "text": "Every cell meets every hormone, but only cells with the matching receptor respond. TSH wakes only the thyroid; thyroxine fits receptors in almost every cell. Nerves act in milliseconds; hormones in seconds to days, and can last for weeks."
+    },
+    {
+      "title": "A thermostat in your head",
+      "text": "The hypothalamus tells the pituitary, and the pituitary tells the thyroid or adrenals. Their hormones travel back and switch the chain off: negative feedback. That is why a tired thyroid makes TSH climb, and why doctors test TSH."
+    },
+    {
+      "title": "Sugar and stress",
+      "text": "After a meal insulin sends sugar into the liver and muscles; in a fast glucagon brings it back out, holding blood sugar near 70 to 100 mg/dL. In a scare, adrenaline arrives within seconds and cortisol peaks about half an hour later."
+    },
+    {
+      "title": "Growing up",
+      "text": "Growth hormone, released mostly in deep sleep, and thyroid hormone grow you; GnRH, LH and FSH start puberty. Melatonin from the pineal signals night, and screens push it later. The thyroid needs iodine, which is why India iodises salt."
+    },
+    {
+      "title": "When hormones go wrong",
+      "text": "About 101 million Indians have diabetes (ICMR-INDIAB, 2023) and about 1 in 10 adults has an underactive thyroid. Most hormone problems show up on a blood test and can be looked after well. If you are worried, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hormone",
+      "def": "A chemical message made by a gland and carried by the blood to cells elsewhere."
+    },
+    {
+      "term": "Endocrine gland",
+      "def": "A gland with no duct that releases its hormones straight into the blood."
+    },
+    {
+      "term": "Receptor",
+      "def": "A protein on or in a cell that one hormone fits, like a lock and its key."
+    },
+    {
+      "term": "Pituitary",
+      "def": "The pea-sized master gland under the brain whose hormones switch other glands on."
+    },
+    {
+      "term": "Hypothalamus",
+      "def": "The part of the brain that controls the pituitary and links nerves to hormones."
+    },
+    {
+      "term": "Negative feedback",
+      "def": "When a hormone's rise turns down its own supply, holding the level steady."
+    },
+    {
+      "term": "Insulin and glucagon",
+      "def": "Islet hormones that lower and raise blood sugar."
+    },
+    {
+      "term": "Adrenaline and cortisol",
+      "def": "Fast and slower stress hormones from the adrenal glands."
+    },
+    {
+      "term": "Goitre",
+      "def": "A swollen thyroid, most often from too little iodine."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "endocrineclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 1
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "endocrineclear",
+  "box": 48,
+  "question": "How does the endocrine system work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/endocrineclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/endocrineclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From seaweed for swollen necks to insulin made by bacteria: 2,500 years of learning how glands talk through the blood.\n\n1849: The rooster experiment\n1855: A disease of the adrenal glands\n1902: Secretin: the first hormone\n1905: The word hormone is born\n1914: Thyroxine crystals on Christmas Day\n1922: Insulin saves a boy's life\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/endocrineclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/endocrineclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #endocrinesystem #hormones #glands #pituitary #thyroid #insulin #history",
+      "youtube": {
+        "title": "The history of the endocrine system in 45 seconds #shorts",
+        "description": "From seaweed for swollen necks to insulin made by bacteria: 2,500 years of learning how glands talk through the blood.\n\n1849 · The rooster experiment (Arnold Adolph Berthold)\n1855 · A disease of the adrenal glands (Thomas Addison)\n1902 · Secretin: the first hormone (William Bayliss and Ernest Starling)\n1905 · The word hormone is born (Ernest Starling)\n1914 · Thyroxine crystals on Christmas Day (Edward Kendall)\n1922 · Insulin saves a boy's life (Frederick Banting, Charles Best, J.J.R. Macleod and James Collip)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the endocrine system work?\n\nNine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.\n\n→ Your endocrine system is a set of small glands that send chemical messages through your blood.\n→ From the brain to the belly: pituitary, thyroid, adrenals, pancreas islets, ovaries or testes.\n→ A hormone reaches every cell, but only cells with the right receptor respond, like a key and its lock.\n→ Adrenaline fits the heart and liver: nerves take milliseconds, hormones seconds to days.\n→ The hypothalamus tells the pituitary, and the pituitary tells the thyroid: a chain of command.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/endocrineclear (link in bio)\n\nBox No. 048 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #endocrinesystem #hormones #glands #pituitary #thyroid #insulin #adrenaline #puberty #humanbody",
+    "carousel": "Swipe through: How does the endocrine system work?\n\nNine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/endocrineclear (link in bio).\n\nBox No. 048 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #endocrinesystem #hormones #glands #pituitary #thyroid #insulin",
+    "youtube": {
+      "title": "How does the endocrine system work? #shorts",
+      "description": "Nine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/\n⌘ Source code (MIT): https://github.com/bdeeps/endocrineclear\n\nBox No. 048 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the endocrine system work? (interactive explainer)",
+      "description": "Nine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/\n⌘ Source code (MIT): https://github.com/bdeeps/endocrineclear\n\nIn this video:\n• Glands with no tubes. The hypothalamus, pituitary, pineal, thyroid, parathyroids, thymus, adrenals, pancreatic islets and ovaries or testes make more than 50 hormones.\n• A key for the right lock. Every cell meets every hormone, but only cells with the matching receptor respond.\n• A thermostat in your head. The hypothalamus tells the pituitary, and the pituitary tells the thyroid or adrenals.\n• Sugar and stress. After a meal insulin sends sugar into the liver and muscles; in a fast glucagon brings it back out, holding blood sugar near 70 to 100 mg/dL.\n• Growing up. Growth hormone, released mostly in deep sleep, and thyroid hormone grow you; GnRH, LH and FSH start puberty.\n• When hormones go wrong. About 101 million Indians have diabetes (ICMR-INDIAB, 2023) and about 1 in 10 adults has an underactive thyroid.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the endocrine system work?\n\nNine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/",
+    "linkedin": "How does the endocrine system work?\n\nNine small glands, from a pea under your brain to the islets in your pancreas, run your body by sending chemical messages in the blood. Watch only the cells with the right lock respond, kick a hormone and see negative feedback pull it back, race a nerve against a hormone, and grow a baby into an adult.\n\n1. Glands with no tubes\n2. A key for the right lock\n3. A thermostat in your head\n4. Sugar and stress\n5. Growing up\n6. When hormones go wrong\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 048 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/endocrineclear/\nCode: https://github.com/bdeeps/endocrineclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T22:08:48.865Z"
+}

@@ -1,0 +1,1010 @@
+{
+  "title": "The history of the endocrine system",
+  "tagline": "From seaweed for swollen necks to insulin made by bacteria: 2,500 years of learning how glands talk through the blood.",
+  "intro": "For thousands of years healers saw swollen necks and strange wasting illnesses, but nobody knew that small glands were to blame. In the 1800s experiments on roosters, dogs and patients showed that glands send something through the blood. In 1902 that something got a name: a hormone. Since then scientists have found dozens of hormones, learned that the brain is in charge of them, and learned to measure and even make them, saving millions of lives.",
+  "eras": [
+    {
+      "id": "swell",
+      "name": "Swellings and signs",
+      "from": -600,
+      "to": 1860,
+      "color": "#c49bff",
+      "summary": "Healers notice swollen necks and strange illnesses. Seaweed helps goitre, anatomists find little glands with no pipes, and a London doctor links a gland to a deadly disease."
+    },
+    {
+      "id": "glands",
+      "name": "Glands that matter",
+      "from": 1849,
+      "to": 1901,
+      "color": "#ffd166",
+      "summary": "Experiments show that glands are needed for life. A rooster, a dog without a pancreas and sheep thyroid extract prove that something in the blood does the work."
+    },
+    {
+      "id": "messengers",
+      "name": "Chemical messengers",
+      "from": 1902,
+      "to": 1936,
+      "color": "#6ee7a8",
+      "summary": "Secretin is found, the word hormone is born, thyroxine is crystallised and insulin saves children with diabetes."
+    },
+    {
+      "id": "master",
+      "name": "The master gland and its master",
+      "from": 1936,
+      "to": 1977,
+      "color": "#8ef0ff",
+      "summary": "Stress, cortisone and melatonin join the story, and the brain turns out to steer the pituitary with its own tiny hormones."
+    },
+    {
+      "id": "measure",
+      "name": "Measuring and making hormones",
+      "from": 1959,
+      "to": 2023,
+      "color": "#ff8a5c",
+      "summary": "Scientists learn to measure hormones in tiny amounts, build insulin from scratch, make it with bacteria and find a hormone made by fat."
+    },
+    {
+      "id": "india",
+      "name": "India's iodine and sugar story",
+      "from": 1956,
+      "to": 2023,
+      "color": "#ff7ab8",
+      "summary": "A Himalayan valley trial leads to iodised salt for a whole country, while diabetes grows into one of India's biggest health challenges."
+    }
+  ],
+  "events": [
+    {
+      "year": -600,
+      "date": "Traditionally c. 6th century BCE (attributed; the text grew over centuries)",
+      "era": "swell",
+      "art": "scroll",
+      "title": "A swelling of the neck gets a name",
+      "who": "Sushruta (attributed)",
+      "where": "Kashi (Varanasi), India",
+      "country": "India",
+      "text": "The Sushruta Samhita, an old Sanskrit book of medicine and surgery, describes galaganda: a swelling at the front of the neck that hangs down. It sorts these swellings into different kinds and suggests treatments, from poultices to surgery.",
+      "why": "It is one of the oldest known descriptions of goitre, a swollen thyroid gland.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 340,
+      "date": "c. 4th century CE",
+      "era": "swell",
+      "art": "leaf",
+      "title": "Seaweed for a swollen neck",
+      "who": "Ge Hong",
+      "where": "China",
+      "country": "China",
+      "text": "The Chinese doctor and alchemist Ge Hong collected handy remedies in a book of emergency recipes. Among them was seaweed soaked in wine to shrink goitres. Nobody knew why it worked.",
+      "why": "Seaweed is full of iodine, the very thing the thyroid needs to make its hormones.",
+      "box": "growth",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1563,
+      "date": "1563 (his drawings from 1552 were printed only in 1714)",
+      "era": "swell",
+      "art": "kidney",
+      "title": "Two little caps on the kidneys",
+      "who": "Bartolomeo Eustachi",
+      "where": "Rome, Italy",
+      "country": "Italy",
+      "text": "The Italian anatomist Bartolomeo Eustachi described small glands sitting on top of each kidney. Today we call them the adrenal glands. His beautiful copper-plate drawings sat unpublished for more than 150 years.",
+      "why": "The adrenals would later turn out to make adrenaline and cortisol, two of the body's most important hormones.",
+      "box": "anatomy",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1656,
+      "date": "1656",
+      "era": "swell",
+      "art": "word",
+      "title": "The thyroid gets its name",
+      "who": "Thomas Wharton",
+      "where": "London, England",
+      "country": "England",
+      "text": "In a book about the body's glands, the English doctor Thomas Wharton named the gland in the neck the thyroid. The name comes from the Greek word for a shield, because of the shape of the cartilage nearby. He guessed it was there to help round out the shape of the neck.",
+      "why": "Scientists could now point at the thyroid by name, even though its real job was still a mystery.",
+      "box": "anatomy",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1849,
+      "date": "1849",
+      "era": "glands",
+      "art": "gland",
+      "key": true,
+      "title": "The rooster experiment",
+      "who": "Arnold Adolph Berthold",
+      "where": "Göttingen, Germany",
+      "country": "Germany",
+      "text": "Berthold removed the testes from young roosters, and they grew up without big red combs or crowing and fighting. When he put a testis back in a different place in the belly, the rooster grew up normal. No nerves had been reconnected, so something must travel in the blood.",
+      "why": "It is widely called the first experiment in endocrinology, showing that a gland can work through the blood.",
+      "box": "messages",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1855,
+      "date": "1855",
+      "era": "swell",
+      "art": "quill",
+      "key": true,
+      "title": "A disease of the adrenal glands",
+      "who": "Thomas Addison",
+      "where": "Guy's Hospital, London, England",
+      "country": "England",
+      "text": "Thomas Addison published a short book about patients who grew weak, thin and oddly bronze-skinned before they died. When the bodies were examined, their adrenal glands were damaged. The illness is now called Addison's disease.",
+      "why": "It was the first clear link between a damaged gland and a disease of the whole body.",
+      "box": "health",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1856,
+      "date": "1856",
+      "era": "glands",
+      "art": "flask",
+      "title": "You cannot live without your adrenals",
+      "who": "Charles-Édouard Brown-Séquard",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Soon after Addison's book, Brown-Séquard removed the adrenal glands from animals. They all died quickly. So these small glands were not spare parts: life depended on them.",
+      "why": "It proved by experiment what Addison had seen in his patients.",
+      "box": "health",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1869,
+      "date": "1869",
+      "era": "glands",
+      "art": "pancreas",
+      "title": "Little islands in the pancreas",
+      "who": "Paul Langerhans",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "As a 22-year-old medical student, Paul Langerhans looked at the pancreas under a microscope. He saw small clusters of cells scattered like islands among the cells that make digestive juice. He did not know what they did.",
+      "why": "These islets of Langerhans turned out to make insulin.",
+      "box": "sugar",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "1889",
+      "era": "glands",
+      "art": "pancreas",
+      "title": "No pancreas, sugar in the urine",
+      "who": "Joseph von Mering and Oskar Minkowski",
+      "where": "Strasbourg (then Germany, now France)",
+      "country": "Germany",
+      "text": "Von Mering and Minkowski removed the pancreas from a dog to study digestion. The dog began to pass large amounts of urine full of sugar, just like a person with diabetes. The pancreas was doing something to control sugar.",
+      "why": "It pointed the hunt for a diabetes treatment at the pancreas.",
+      "box": "sugar",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "13 April 1891 (first injection)",
+      "era": "glands",
+      "art": "flask",
+      "title": "Sheep thyroid brings a patient back",
+      "who": "George Redmayne Murray",
+      "where": "Newcastle upon Tyne, England",
+      "country": "England",
+      "text": "A 46-year-old woman had myxoedema: her thyroid was failing, and she was slow, cold and puffy. George Murray injected her with an extract of sheep thyroid, and within months she was much better. She kept taking it and lived to 74.",
+      "why": "It was one of the first times a missing hormone was replaced, an idea still used by millions today.",
+      "box": "health",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "1894",
+      "era": "glands",
+      "art": "vessels",
+      "title": "Adrenal juice raises blood pressure",
+      "who": "George Oliver and Edward Schäfer",
+      "where": "University College London, England",
+      "country": "England",
+      "text": "The story goes that George Oliver, a country doctor, gave adrenal extract to his son and noticed a change in his pulse. He took it to Edward Schäfer in London. When they injected it into a dog, the blood pressure shot up.",
+      "why": "It showed that the adrenal glands release a powerful substance into the blood.",
+      "box": "messages",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1900–1901",
+      "era": "glands",
+      "art": "molecule",
+      "title": "Adrenaline is purified",
+      "who": "Jokichi Takamine and Keizo Uenaka",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "The Japanese chemist Jokichi Takamine and his assistant Keizo Uenaka purified the active substance from adrenal glands and crystallised it. Takamine called it Adrenalin. It was soon used to stop bleeding and to treat asthma attacks.",
+      "why": "It was the first hormone ever to be purified.",
+      "box": "messages",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1902,
+      "date": "16 January 1902",
+      "era": "messengers",
+      "art": "gland",
+      "key": true,
+      "title": "Secretin: the first hormone",
+      "who": "William Bayliss and Ernest Starling",
+      "where": "University College London, England",
+      "country": "England",
+      "text": "Bayliss and Starling put a little acid into a dog's small intestine after cutting its nerves. The pancreas still poured out juice. When they injected an extract of the intestine lining into the blood, the pancreas responded too: a chemical, which they named secretin, carried the message.",
+      "why": "It proved that the body sends chemical messages through the blood, not only through nerves.",
+      "box": "messages",
+      "sources": [
+        17,
+        19,
+        46
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "20 June 1905",
+      "era": "messengers",
+      "art": "word",
+      "key": true,
+      "title": "The word hormone is born",
+      "who": "Ernest Starling",
+      "where": "Royal College of Physicians, London, England",
+      "country": "England",
+      "text": "In his Croonian Lectures, Starling needed a name for these chemical messengers. He used hormone, from a Greek word meaning to arouse or set in motion. The idea came from a dinner-table chat with colleagues in Cambridge.",
+      "why": "A single word gave a whole new science something to talk about.",
+      "box": "messages",
+      "sources": [
+        18,
+        17
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "25 December 1914",
+      "era": "messengers",
+      "art": "molecule",
+      "key": true,
+      "title": "Thyroxine crystals on Christmas Day",
+      "who": "Edward Kendall",
+      "where": "Mayo Clinic, Rochester, Minnesota, USA",
+      "country": "USA",
+      "text": "Edward Kendall had spent months boiling down pig thyroid glands. On Christmas Day he finally saw crystals of the pure hormone, later called thyroxine. It was packed with iodine.",
+      "why": "It explained why iodine and seaweed help the thyroid, and led to thyroid tablets.",
+      "box": "growth",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "1921–22 (first patient 11 January 1922)",
+      "era": "messengers",
+      "art": "pancreas",
+      "key": true,
+      "title": "Insulin saves a boy's life",
+      "who": "Frederick Banting, Charles Best, J.J.R. Macleod and James Collip",
+      "where": "University of Toronto, Canada",
+      "country": "Canada",
+      "text": "In 1921 Banting and Best made an extract from the pancreas that lowered sugar in dogs. In January 1922, 14-year-old Leonard Thompson, close to death from diabetes, got the first injections; after Collip purified the extract, he recovered. Banting and Macleod won the Nobel Prize in 1923 and shared the money with Best and Collip.",
+      "why": "Type 1 diabetes changed from a death sentence into a disease people could live with.",
+      "box": "sugar",
+      "sources": [
+        22,
+        23,
+        50
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "4 July 1936",
+      "era": "master",
+      "art": "brain",
+      "title": "Stress gets a scientific meaning",
+      "who": "Hans Selye",
+      "where": "McGill University, Montreal, Canada",
+      "country": "Canada",
+      "text": "Hans Selye noticed that rats hurt in very different ways, by cold, injury or drugs, all showed the same changes, including swollen adrenal glands. He described this in a short letter to Nature. He later called it stress.",
+      "why": "It showed that hormones help the whole body respond to any kind of danger.",
+      "box": "control",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "21 September 1948 (Nobel Prize 1950)",
+      "era": "master",
+      "art": "flask",
+      "title": "Cortisone helps a patient walk",
+      "who": "Philip Hench, Edward Kendall and Tadeus Reichstein",
+      "where": "Mayo Clinic, Rochester, USA",
+      "country": "USA",
+      "text": "A young woman with painful rheumatoid arthritis could hardly get out of bed. Doctors injected her with compound E, an adrenal hormone Kendall had purified, now called cortisone. Within about a week she said she had never felt better in her life. Hench, Kendall and Reichstein won the Nobel Prize in 1950.",
+      "why": "It showed how strong adrenal hormones are, and steroid medicines have been used ever since.",
+      "box": "health",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "Late 1940s to 1955",
+      "era": "master",
+      "art": "brain",
+      "key": true,
+      "title": "The brain is the boss of the pituitary",
+      "who": "Geoffrey Harris, with Dora Jacobsohn",
+      "where": "Cambridge and London, England, and Lund, Sweden",
+      "country": "England",
+      "text": "The pituitary was called the master gland, but what controlled it? Geoffrey Harris showed that tiny blood vessels carry chemicals from the hypothalamus in the brain straight down to the pituitary. With Dora Jacobsohn he showed that cutting this blood link stopped the pituitary working. He summed it up in his 1955 book Neural Control of the Pituitary Gland.",
+      "why": "It joined the nervous system and the hormone system into one control network.",
+      "box": "control",
+      "sources": [
+        27,
+        28,
+        48
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956–1972",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "The Kangra Valley salt trial",
+      "who": "Vulimiri Ramalingaswami and colleagues",
+      "where": "Kangra Valley, Himachal Pradesh, India",
+      "country": "India",
+      "text": "In the Himalayan foothills, goitre was very common. Researchers split the valley into zones: some families got salt with added iodine, others got plain salt. In the iodised zones, goitre became much less common.",
+      "why": "It proved that iodised salt could prevent goitre across a whole population.",
+      "box": "growth",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958",
+      "era": "master",
+      "art": "night",
+      "title": "Melatonin, the darkness hormone",
+      "who": "Aaron Lerner",
+      "where": "Yale University, USA",
+      "country": "USA",
+      "text": "Aaron Lerner was studying skin colour. An old report said cow pineal glands made tadpole skin go pale, so he processed thousands of pineal glands. He isolated a new hormone and called it melatonin.",
+      "why": "Melatonin turned out to be the hormone that tells the body it is night.",
+      "box": "growth",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1959–1960",
+      "era": "measure",
+      "art": "atomspin",
+      "key": true,
+      "title": "Measuring a hormone in a drop of blood",
+      "who": "Rosalyn Yalow and Solomon Berson",
+      "where": "Bronx Veterans Administration Hospital, New York, USA",
+      "country": "USA",
+      "text": "Hormones float in the blood in astonishingly tiny amounts. Yalow and Berson used antibodies and a little radioactivity to measure insulin in human blood for the first time. They called the method radioimmunoassay and did not patent it.",
+      "why": "Doctors and scientists could finally measure hormones, and Yalow won the 1977 Nobel Prize.",
+      "box": "health",
+      "sources": [
+        33,
+        45,
+        32
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "india",
+      "art": "earth",
+      "key": true,
+      "title": "India starts fighting goitre",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "Building on the Kangra results, India launched the National Goitre Control Programme. It surveyed areas where goitre was common and supplied iodised salt to them. The whole cost was paid by the central government.",
+      "why": "It was one of India's first national programmes to prevent a hormone problem with food.",
+      "box": "growth",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "17 September 1965",
+      "era": "measure",
+      "art": "molecule",
+      "title": "Insulin built from scratch",
+      "who": "Niu Jingyi, Wang You, Xing Qiyi, Zou Chenglu and teams",
+      "where": "Shanghai and Beijing, China",
+      "country": "China",
+      "text": "Teams of Chinese chemists joined amino acids one by one to build both chains of insulin, then joined the chains together. The result formed crystals and worked just like natural insulin. It was the first protein ever made fully in a lab.",
+      "why": "It showed that a hormone is just a molecule that chemists can build.",
+      "box": "sugar",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "TRH 1969, GnRH 1971 (Nobel Prize 1977)",
+      "era": "master",
+      "art": "brain",
+      "key": true,
+      "title": "The brain's own hormones are found",
+      "who": "Roger Guillemin and Andrew Schally",
+      "where": "Houston and New Orleans, USA",
+      "country": "USA",
+      "text": "Harris had predicted the hypothalamus sends chemical signals to the pituitary. Two rival teams ground up millions of sheep and pig brains to find them. In 1969 they found TRH, which tells the pituitary to wake up the thyroid, and in 1971 Schally's team found GnRH, which controls puberty and fertility.",
+      "why": "The brain's releasing hormones sit at the very top of the hormone chain, and both men shared the 1977 Nobel Prize.",
+      "box": "control",
+      "sources": [
+        32,
+        47,
+        51
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978 (approved for patients October 1982)",
+      "era": "measure",
+      "art": "cell",
+      "title": "Bacteria make human insulin",
+      "who": "Genentech scientists; Eli Lilly",
+      "where": "South San Francisco and Indianapolis, USA",
+      "country": "USA",
+      "text": "For 60 years insulin came from pig and cow pancreases. In 1978 scientists put the human insulin gene into bacteria, which then made human insulin. In 1982 it became the first medicine made this way to be approved.",
+      "why": "It gave the world a steady supply of human insulin and launched the biotech industry.",
+      "box": "sugar",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "August 1992",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "Iodine for everyone",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India renamed its goitre programme the National Iodine Deficiency Disorders Control Programme. The new name showed that lack of iodine harms far more than the neck: it can slow a child's growth and learning. The goal became iodised salt for everyone, called universal salt iodisation.",
+      "why": "It turned a programme for a few hill areas into a plan for every kitchen in India.",
+      "box": "growth",
+      "sources": [
+        34,
+        35
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "December 1994",
+      "era": "measure",
+      "art": "cell",
+      "title": "Fat makes a hormone",
+      "who": "Jeffrey Friedman and team",
+      "where": "Rockefeller University, New York, USA",
+      "country": "USA",
+      "text": "Scientists found the gene that was broken in a strain of very fat mice. It made a hormone, called leptin, that fat cells release into the blood. Leptin tells the brain how much energy the body has stored.",
+      "why": "It showed that body fat is not just storage but a hormone-making gland.",
+      "box": "anatomy",
+      "sources": [
+        39
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "Notified 17 November 2005, in force 17 May 2006",
+      "era": "india",
+      "art": "scales",
+      "title": "Only iodised salt on the table",
+      "who": "Ministry of Health and Family Welfare",
+      "where": "India",
+      "country": "India",
+      "text": "An earlier ban on selling non-iodised salt for eating had been lifted in 2000. In 2005 the government brought it back under food law, and it took effect in May 2006. Salt for people to eat had to have iodine added.",
+      "why": "A national rule made sure iodine reached families without them having to choose it.",
+      "box": "growth",
+      "sources": [
+        40,
+        49
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "June 2023",
+      "era": "india",
+      "art": "pancreas",
+      "key": true,
+      "title": "About 101 million Indians have diabetes",
+      "who": "ICMR-INDIAB study team (R.M. Anjana and colleagues)",
+      "where": "All states and union territories of India",
+      "country": "India",
+      "text": "A huge survey tested more than 113,000 people across India. It found that about 11.4% of adults had diabetes, around 101 million people, and about 136 million more had prediabetes. The results were published in The Lancet Diabetes & Endocrinology.",
+      "why": "It showed that keeping blood sugar in balance is now one of India's biggest health challenges.",
+      "box": "sugar",
+      "sources": [
+        41
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known description of goitre (attributed)",
+      "value": "c. 6th century BCE",
+      "who": "Sushruta Samhita, India"
+    },
+    {
+      "label": "Seaweed used to treat goitre",
+      "value": "c. 4th century CE",
+      "who": "Ge Hong, China"
+    },
+    {
+      "label": "First experiment in endocrinology",
+      "value": "1849",
+      "who": "Arnold Berthold, Germany"
+    },
+    {
+      "label": "Hormone therapy for a failing gland",
+      "value": "1891",
+      "who": "George Murray, England"
+    },
+    {
+      "label": "First hormone purified",
+      "value": "1900–1901",
+      "who": "Adrenaline: Jokichi Takamine and Keizo Uenaka, USA"
+    },
+    {
+      "label": "First hormone discovered",
+      "value": "16 Jan 1902",
+      "who": "Secretin: Bayliss and Starling, London"
+    },
+    {
+      "label": "The word hormone",
+      "value": "1905",
+      "who": "Ernest Starling, London"
+    },
+    {
+      "label": "First person treated with insulin",
+      "value": "11 Jan 1922",
+      "who": "Leonard Thompson, Toronto"
+    },
+    {
+      "label": "First fully synthetic protein (insulin)",
+      "value": "1965",
+      "who": "Chinese teams, Shanghai"
+    },
+    {
+      "label": "First medicine made by genetic engineering approved",
+      "value": "1982",
+      "who": "Human insulin, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Thomas Addison",
+      "life": "1793 – 1860",
+      "role": "Physician",
+      "from": "England",
+      "note": "Described the adrenal disease that bears his name in a 39-page book in 1855."
+    },
+    {
+      "name": "Jokichi Takamine",
+      "life": "1854 – 1922",
+      "role": "Chemist",
+      "from": "Japan, worked in the USA",
+      "note": "With Keizo Uenaka, purified adrenaline, the first hormone ever isolated."
+    },
+    {
+      "name": "William Bayliss",
+      "life": "1860 – 1924",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Co-discovered secretin with his brother-in-law Ernest Starling."
+    },
+    {
+      "name": "Ernest Starling",
+      "life": "1866 – 1927",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Co-discovered secretin and gave the world the word hormone."
+    },
+    {
+      "name": "Edward Kendall",
+      "life": "1886 – 1972",
+      "role": "Chemist",
+      "from": "USA",
+      "note": "Crystallised thyroxine on Christmas Day 1914 and later purified cortisone, winning a Nobel Prize."
+    },
+    {
+      "name": "Frederick Banting",
+      "life": "1891 – 1941",
+      "role": "Surgeon and researcher",
+      "from": "Canada",
+      "note": "Led the Toronto work that turned a pancreas extract into life-saving insulin."
+    },
+    {
+      "name": "Dora Jacobsohn",
+      "life": "1908 – 1983",
+      "role": "Physiologist and endocrinologist",
+      "from": "Germany, worked in Sweden",
+      "note": "With Geoffrey Harris, showed that the pituitary needs its blood link to the brain."
+    },
+    {
+      "name": "Geoffrey Harris",
+      "life": "1913 – 1971",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Often called the father of neuroendocrinology for showing how the brain controls the pituitary."
+    },
+    {
+      "name": "Rosalyn Yalow",
+      "life": "1921 – 2011",
+      "role": "Medical physicist",
+      "from": "USA",
+      "note": "Invented radioimmunoassay with Solomon Berson and won the 1977 Nobel Prize."
+    },
+    {
+      "name": "Vulimiri Ramalingaswami",
+      "life": "1921 – 2001",
+      "role": "Pathologist and medical scientist",
+      "from": "India",
+      "note": "Led the Kangra Valley study that proved iodised salt prevents goitre."
+    },
+    {
+      "name": "Roger Guillemin",
+      "life": "1924 – 2024",
+      "role": "Physiologist",
+      "from": "France, worked in the USA",
+      "note": "Raced to find the brain's releasing hormones and shared the 1977 Nobel Prize."
+    },
+    {
+      "name": "Andrew Schally",
+      "life": "1926 – 2024",
+      "role": "Endocrinologist",
+      "from": "Poland, worked in the USA",
+      "note": "Found TRH and GnRH, and shared the 1977 Nobel Prize with his rival Guillemin."
+    }
+  ],
+  "series": [
+    {
+      "id": "salt",
+      "title": "Indian households using iodised salt",
+      "unit": "% of households",
+      "log": false,
+      "after": "india",
+      "caption": "National Family Health Survey rounds. The first two counted salt with at least 15 parts per million of iodine; the later two counted any iodised salt, so the jump is partly a change in measure as well as real progress.",
+      "points": [
+        {
+          "year": 1999,
+          "value": 49,
+          "label": "NFHS-2, 1998–99: about 49% (adequately iodised, 15 ppm or more)"
+        },
+        {
+          "year": 2006,
+          "value": 51,
+          "label": "NFHS-3, 2005–06: 51% (adequately iodised, 15 ppm or more)"
+        },
+        {
+          "year": 2016,
+          "value": 93.1,
+          "label": "NFHS-4, 2015–16: 93.1% (iodised salt)"
+        },
+        {
+          "year": 2020,
+          "value": 94.3,
+          "label": "NFHS-5, 2019–21: 94.3% (iodised salt)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The word hormone comes from a Greek word meaning to arouse or set in motion.",
+    "Adrenaline was purified in 1901, a year before secretin, but secretin is called the first hormone because Bayliss and Starling were the first to show a chemical messenger at work.",
+    "Leonard Thompson, the first person treated with insulin, was 14 and lived for another 13 years.",
+    "Rosalyn Yalow and Solomon Berson chose not to patent radioimmunoassay, so labs everywhere could use it.",
+    "Your pituitary gland, which helps run so many other glands, is only about the size of a pea."
+  ],
+  "sources": [
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "A Historical Account of Endocrinology in Ancient India",
+      "publisher": "Indian Journal of Endocrinology and Metabolism (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035300/"
+    },
+    {
+      "title": "Ge Hong",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ge_Hong"
+    },
+    {
+      "title": "Iodine, Seaweed, and the Thyroid",
+      "publisher": "European Thyroid Journal (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8077470/"
+    },
+    {
+      "title": "Bartolomeo Eustachi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bartolomeo_Eustachi"
+    },
+    {
+      "title": "Thyroid: history",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thyroid"
+    },
+    {
+      "title": "Testosterone and Aggression: Berthold, Birds and Beyond",
+      "publisher": "Journal of Neuroendocrinology (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2954190/"
+    },
+    {
+      "title": "On the Constitutional and Local Effects of Disease of the Supra-renal Capsules (Addison, 1855)",
+      "publisher": "PubMed Central",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10340858/"
+    },
+    {
+      "title": "On the constitutional and local effects of disease of the supra-renal capsules / by Thomas Addison",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/xsmzqpdw"
+    },
+    {
+      "title": "Charles-Édouard Brown-Séquard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles-%C3%89douard_Brown-S%C3%A9quard"
+    },
+    {
+      "title": "Paul Langerhans",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paul_Langerhans"
+    },
+    {
+      "title": "Oskar Minkowski",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oskar_Minkowski"
+    },
+    {
+      "title": "George Redmayne Murray",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Redmayne_Murray"
+    },
+    {
+      "title": "Note on the Treatment of Myxoedema by Hypodermic Injections of an Extract of the Thyroid Gland of a Sheep (BMJ, 1891)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20753415/"
+    },
+    {
+      "title": "Edward Albert Sharpey-Schafer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Albert_Sharpey-Schafer"
+    },
+    {
+      "title": "Jokichi Takamine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jokichi_Takamine"
+    },
+    {
+      "title": "Comparison of four documents describing adrenaline purification: Keizo Uenaka, Nagai Nagayoshi and Jokichi Takamine",
+      "publisher": "Journal of Anesthesia History (via PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32593376/"
+    },
+    {
+      "title": "Ernest Starling",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ernest_Starling"
+    },
+    {
+      "title": "Ernest Starling and 'Hormones': an historical commentary",
+      "publisher": "Journal of Endocrinology",
+      "url": "https://joe.bioscientifica.com/view/journals/joe/184/1/1840005.xml"
+    },
+    {
+      "title": "The first 'endocrinologist'",
+      "publisher": "Society for Endocrinology",
+      "url": "https://www.endocrinology.org/endocrinologist/140-summer-2021/features/the-first-endocrinologist/"
+    },
+    {
+      "title": "1914: A Christmas discovery to treat thyroid disease",
+      "publisher": "Mayo Clinic History",
+      "url": "https://history.mayoclinic.org/wp-content/uploads/2022/11/1914.pdf"
+    },
+    {
+      "title": "Edward Calvin Kendall",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Calvin_Kendall"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1923",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1923/summary/"
+    },
+    {
+      "title": "Leonard Thompson: The Discovery of Insulin at the University of Toronto",
+      "publisher": "Thomas Fisher Rare Book Library, University of Toronto",
+      "url": "https://fisherdigitus.library.utoronto.ca/exhibits/show/insulin100/early-patients/leonard-thompson"
+    },
+    {
+      "title": "A Syndrome produced by Diverse Nocuous Agents (Selye, 1936)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/138032a0"
+    },
+    {
+      "title": "Discovery of Cortisone",
+      "publisher": "Mayo Clinic Archives",
+      "url": "https://libraryguides.mayo.edu/historicalunit/cortisone"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1950",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1950/summary/"
+    },
+    {
+      "title": "Harris' neuroendocrine revolution: of portal vessels and self-priming",
+      "publisher": "Journal of Endocrinology",
+      "url": "https://joe.bioscientifica.com/view/journals/joe/226/2/T13.xml"
+    },
+    {
+      "title": "Geoffrey Harris (neuroendocrinologist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Harris_(neuroendocrinologist)"
+    },
+    {
+      "title": "Prevention of endemic goitre with iodized salt (Kangra Valley study)",
+      "publisher": "Bulletin of the World Health Organization (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2481146/"
+    },
+    {
+      "title": "Exploring the Global Health Legacy of Dr. Vulimiri Ramalingaswami",
+      "publisher": "Cureus (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11351387/"
+    },
+    {
+      "title": "Aaron B. Lerner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aaron_B._Lerner"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1977: press release",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1977/press-release/"
+    },
+    {
+      "title": "Radioimmunoassay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radioimmunoassay"
+    },
+    {
+      "title": "National Iodine Deficiency Disorders Control Programme",
+      "publisher": "National Health Mission, Uttar Pradesh (Government of India programme)",
+      "url": "https://upnrhm.gov.in/Home/Niddcp"
+    },
+    {
+      "title": "World Iodine Deficiency Day",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153355&ModuleId=3&reg=3&lang=1"
+    },
+    {
+      "title": "Synthetic crystalline bovine insulin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Synthetic_crystalline_bovine_insulin"
+    },
+    {
+      "title": "The creation of synthetic crystalline bovine insulin",
+      "publisher": "Protein & Cell (via PubMed Central)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4624679/"
+    },
+    {
+      "title": "Recombinant Drugs (Birth of Biotech)",
+      "publisher": "National Museum of American History, Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object-groups/birth-of-biotech/recombinant-drugs"
+    },
+    {
+      "title": "Leptin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leptin"
+    },
+    {
+      "title": "Tracking Progress Toward Elimination of Iodine Deficiency Disorders in Jharkhand, India",
+      "publisher": "Indian Journal of Community Medicine (via PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2763680/"
+    },
+    {
+      "title": "Metabolic non-communicable disease health report of India: the ICMR-INDIAB national cross-sectional study (ICMR-INDIAB-17)",
+      "publisher": "The Lancet Diabetes & Endocrinology (via PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37301218/"
+    },
+    {
+      "title": "National Family Health Survey (NFHS-5) 2019–21: India fact sheet",
+      "publisher": "Ministry of Health and Family Welfare / DHS Program",
+      "url": "https://dhsprogram.com/pubs/pdf/OF43/India_National_Fact_Sheet.pdf"
+    },
+    {
+      "title": "India National Family Health Survey (NFHS-3) 2005–06: Key Findings",
+      "publisher": "Ministry of Health and Family Welfare / DHS Program",
+      "url": "https://dhsprogram.com/pubs/pdf/SR128/SR128_updated_09-22-2015.pdf"
+    },
+    {
+      "title": "India National Family Health Survey 1998–99 (NFHS-2)",
+      "publisher": "International Institute for Population Sciences / DHS Program",
+      "url": "https://dhsprogram.com/pubs/pdf/frind2/frind2.pdf"
+    },
+    {
+      "title": "Rosalyn Sussman Yalow",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosalyn_Sussman_Yalow"
+    },
+    {
+      "title": "Sir William Maddock Bayliss",
+      "publisher": "Britannica",
+      "url": "https://www.britannica.com/biography/William-Maddock-Bayliss"
+    },
+    {
+      "title": "Roger Guillemin",
+      "publisher": "Britannica",
+      "url": "https://www.britannica.com/biography/Roger-Guillemin"
+    },
+    {
+      "title": "Dora Jacobsohn",
+      "publisher": "Svenskt kvinnobiografiskt lexikon (skbl.se)",
+      "url": "https://skbl.se/en/article/DoraJacobsohn"
+    },
+    {
+      "title": "Iodine deficiency disorders: Pass the (iodised) salt, please",
+      "publisher": "India Together",
+      "url": "https://indiatogether.org/saltban-government"
+    },
+    {
+      "title": "Insulin: the discovery and early development",
+      "publisher": "University of Toronto Libraries",
+      "url": "https://insulin.library.utoronto.ca/about/patients"
+    },
+    {
+      "title": "Andrew Schally",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Schally"
+    }
+  ]
+}
